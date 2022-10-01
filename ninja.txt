@@ -1,0 +1,1 @@
+NSO_Termux:0.tcp.jp.ngrok.io:15760:0:0
